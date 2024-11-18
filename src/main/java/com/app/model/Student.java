@@ -28,8 +28,18 @@ public class Student {
 		this.marks = marks;
 	}
 	
+<<<<<<< Updated upstream
 	public void login()
 {
 //successful login functionality
 }
+=======
+public void generatePassword()
+{
+// 20 line code
+//line 40
+}
+
+	
+>>>>>>> Stashed changes
 
