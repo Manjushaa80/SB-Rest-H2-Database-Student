@@ -28,11 +28,5 @@ public class Student {
 		this.marks = marks;
 	}
 	
-	public void login()
-{
-System.out.println("login function");
-//50 line of code
-//30 line of code
 	
 
-}
