@@ -28,5 +28,8 @@ public class Student {
 		this.marks = marks;
 	}
 	
-	
+	public void login()
+{
+//successful login functionality
+}
 
