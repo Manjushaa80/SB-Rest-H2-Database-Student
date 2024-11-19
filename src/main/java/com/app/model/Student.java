@@ -9,6 +9,15 @@ public class Student {
 	private Integer rollno;
 	private String name;
 	private String marks;
+
+       public void m1()
+{
+//line 30 code...
+}
+  
+
+
+
 	public Integer getRollno() {
 		return rollno;
 	}
