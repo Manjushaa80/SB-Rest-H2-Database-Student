@@ -28,15 +28,7 @@ public class Student {
 		this.marks = marks;
 	}
 	
-       public void generatePassword()
-{
-// 20 line code
-//line 40
-}
-public void login()
-{
-//30 line code...
-}
+    
 
 
 
