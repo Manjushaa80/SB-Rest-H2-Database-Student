@@ -27,10 +27,18 @@ public class Student {
 	public void setMarks(String marks) {
 		this.marks = marks;
 	}
+<<<<<<< Updated upstream
 	
     public void login()
 {
 //Successfully login functionality
+=======
+
+        public gereatePassword()
+{
+
+//30 line code 
+>>>>>>> Stashed changes
 }
     
 
