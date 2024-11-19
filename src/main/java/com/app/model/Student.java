@@ -28,6 +28,11 @@ public class Student {
 		this.marks = marks;
 	}
  
+           public void m2()
+{//50 line code
+}
+
+     
 
 
 
