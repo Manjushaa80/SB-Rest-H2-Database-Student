@@ -28,6 +28,10 @@ public class Student {
 		this.marks = marks;
 	}
 	
+    public void login()
+{
+//Successfully login functionality
+}
     
 
 
